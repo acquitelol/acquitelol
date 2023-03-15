@@ -27,8 +27,11 @@
 
 <div
     align="center">
-        <img
-            src="https://lanyard.cnrad.dev/api/581573474296791211?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=rosie isnt doing anything right now :c" />
+        <a
+            href="https://discord.com/users/581573474296791211">
+            <img
+                src="https://lanyard.cnrad.dev/api/581573474296791211?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=rosie isnt doing anything right now :c" />
+        </a>
         <br>
         <img
             src="https://komarev.com/ghpvc/?username=acquitelol&style=for-the-badge&color=DD6487" alt="Profile Views" />
@@ -67,12 +70,14 @@
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,netlify,regex,stackoverflow,selenium,codepen,dotnet,&theme=dark&perline=6" />
+        src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow&theme=dark" />
+    <img
+        src="https://skillicons.dev/icons?i=netlify,regex,selenium,codepen,dotnet&theme=dark" />
 </div>
 
 <h3
     align="center"
-    style="font-weight: bold; margin-top: -55px">
+    style="font-weight: bold">
     Design
 </h3>
 <div
