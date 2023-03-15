@@ -71,6 +71,7 @@
     align="center">
     <img
         src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow&theme=dark" />
+    <br>
     <img
         src="https://skillicons.dev/icons?i=netlify,regex,selenium,codepen,dotnet&theme=dark" />
 </div>
