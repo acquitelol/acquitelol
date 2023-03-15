@@ -13,9 +13,14 @@
     align="center">
     ➺ I am an aspiring developer who likes to program in several languages for fun!
     <br>
-    ➺ Sometimes I get too silly and make thingies for programs and give up
+    ➺ Sometimes I get too silly and make
+        <a
+            href="https://github.com/acquitelol?tab=repositories">
+            thingies and modifications
+        </a>
+    for apps :3
     <br>
-    ➺ She/her ~ 14 ~ British ~ Animator ~ Programmer ~ Dumbass
+    ➺ She/her ~ 14 ~ United Kingdom ~ Animation ~ UTC+0 ~ Stupid
 </div>
 
 #
@@ -23,53 +28,57 @@
 <div
     align="center">
         <img
-            src="https://lanyard.cnrad.dev/api/581573474296791211?borderRadius=5px&animated=:true" />
+            src="https://lanyard.cnrad.dev/api/581573474296791211?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=rosie isnt doing anything right now :c" />
         <br>
         <img
-            src="https://komarev.com/ghpvc/?username=acquitelol&style=for-the-badge&color=ff85e4" alt="Profile Views" />
+            src="https://komarev.com/ghpvc/?username=acquitelol&style=for-the-badge&color=DD6487" alt="Profile Views" />
 </div>
 
 #
 
 <h3
-    align="center">
+    align="center"
+    style="font-weight: bold">
     Languages
 </h3>
 <div
     align="center"
     style="margin-top: 10px">
     <img
-        src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,rust,py,html,css,jest&theme=dark" />
+        src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,rust,py,html,css&theme=dark" />
 </div>
 
 <h3
-    align="center">
+    align="center"
+    style="font-weight: bold">
     Frameworks
 </h3>
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=electron,react,tauri,astro&theme=dark" />
+        src="https://skillicons.dev/icons?i=electron,react,tauri,astro,discord&theme=dark" />
 </div>
 
 <h3
-    align="center">
+    align="center"
+    style="font-weight: bold">
     Tools
 </h3>
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=vscode,visualstudio,bash,git,rollupjs,netlify,regex,stackoverflow,selenium&theme=dark" />
+        src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,netlify,regex,stackoverflow,selenium,codepen,dotnet,&theme=dark&perline=6" />
 </div>
 
 <h3
-    align="center">
+    align="center"
+    style="font-weight: bold; margin-top: -55px">
     Design
 </h3>
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=ae,figma,bootstrap,tailwind,css&theme=dark" />
+        src="https://skillicons.dev/icons?i=ae,figma,blender,bootstrap,tailwind,css&theme=dark" />
 </div>
 
 #
