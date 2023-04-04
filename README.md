@@ -59,7 +59,7 @@
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=electron,react,tauri,astro,discord&theme=dark" />
+        src="https://skillicons.dev/icons?i=electron,react,tauri,astro&theme=dark" />
 </div>
 
 <h3
@@ -70,10 +70,10 @@
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow&theme=dark" />
+        src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow,netlify&theme=dark" />
     <br>
     <img
-        src="https://skillicons.dev/icons?i=netlify,regex,selenium,codepen,dotnet&theme=dark" />
+        src="https://skillicons.dev/icons?i=regex,selenium,codepen,dotnet,discord&theme=dark" />
 </div>
 
 <h3
@@ -84,7 +84,7 @@
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=ae,figma,blender,bootstrap,tailwind,css&theme=dark" />
+        src="https://skillicons.dev/icons?i=ae,figma,blender,bootstrap,tailwind&theme=dark" />
 </div>
 
 #
