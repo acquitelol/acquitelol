@@ -13,14 +13,14 @@
     align="center">
     ➺ I am an aspiring developer who likes to program in several languages for fun!
     <br>
-    ➺ Sometimes I get too silly and make
+    ➺ Sometimes I make
         <a
             href="https://github.com/acquitelol?tab=repositories">
             thingies and modifications
         </a>
-    for apps :3
+    for apps
     <br>
-    ➺ She/her ~ 14 ~ United Kingdom ~ Animation ~ UTC+0 ~ Stupid
+    ➺ 14 ~ United Kingdom ~ Animation ~ UTC+0
 </div>
 
 #
