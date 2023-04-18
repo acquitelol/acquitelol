@@ -1,6 +1,6 @@
 <h1
     align="center">
-    Haiii :3 ~ My name is Acquite!
+    Hello! ~ My name is Acquite!
 </h1>
 
 <h3
