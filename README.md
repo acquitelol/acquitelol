@@ -18,7 +18,7 @@
             href="https://github.com/acquitelol?tab=repositories">
             thingies and modifications
         </a>
-    for apps
+    for apps :3
     <br>
     ➺ 14 ~ United Kingdom ~ Animation ~ UTC+0
 </div>
