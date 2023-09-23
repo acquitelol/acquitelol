@@ -1,6 +1,6 @@
 <h1
     align="center">
-    Haii ~! I'm Rosie 💖
+    <code>Haii ~!</code> I'm Rosie 💖
 </h1>
 
 <h3
