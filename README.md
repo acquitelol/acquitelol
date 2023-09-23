@@ -10,10 +10,10 @@
 </h3>
     
 ```ts
-import { getInformation } from '@meow';
+import Users, { getData } from '@meow';
 import type { Cute } from '@cute';
 
-const Rosie = getInformation<Cute>('Rosie');
+const Rosie = getData<Cute>(Users.Rosie);
 Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
 /**
  * role: 'Programmer with a silly mindset :3'
