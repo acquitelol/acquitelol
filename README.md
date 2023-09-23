@@ -8,18 +8,21 @@
     style="font-weight: bold">
     About Me
 </h3>
+    
+```ts
+import { getInformation } from '@meow';
+import type { Cute } from '@cute'
 
-<div style="margin-inline: 5em; display: flex; justify-content: center">
-
-➺ I <code>program things</code> at a professional level but with a silly mindset <code>:3</code>
-<br />
-➺ I'm <code>15</code> years old! I'm studying Computer Science and Engineering for my GCSEs.
-<br />
-➺ I have other interests too, such as <code>Astrophysics</code> and <code>Design</code> ~!
-<br />
-➺ I also absolutely <code>love</code> pets! Especially <code>cats</code>, <code>bunnies</code>, and <code>puppies</code> <3
-
-</div>
+const Rosie = getInformation<Cute>('Rosie');
+Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data))
+/**
+ * role: 'Programmer with a silly mindset :3'
+ * age: 15
+ * studying: ['Programming', 'Engineering']
+ * interests: ['Astrophysics', 'Design']
+ * loves: ['Cats', 'Bunnies', 'Puppies']
+ */
+```
 
 #
 
@@ -31,9 +34,9 @@
 
 <details open>
 
-<summary
-    align="center"
-    style="font-size: 0.9rem">You may know me from some of my projects shown below!</summary>
+<summary align="center">
+    <h5>You may know me from some of my projects shown below!</h5>
+</summary>
 
 <div align="center">
 
@@ -57,10 +60,8 @@
 
 <details open>
 
-<summary
-    align="center"
-    style="font-weight: bold; font-size: 1.25rem">
-    Languages
+<summary align="center">
+    <h3>Languages</h3>
 </summary>
 
 <div
@@ -77,10 +78,8 @@
 
 <details open style="margin-bottom: 1em">
 
-<summary
-    align="center"
-    style="font-weight: bold; font-size: 1.25rem">
-    Frameworks
+<summary align="center">
+    <h3>Frameworks</h3>
 </summary>
 
 <div
@@ -97,10 +96,8 @@
 
 <details open style="margin-bottom: 1em">
 
-<summary
-    align="center"
-    style="font-weight: bold; font-size: 1.25rem">
-    Tools
+<summary align="center">
+    <h3>Tools</h3>
 </summary>
 
 <div
@@ -117,10 +114,8 @@
 
 <details open style="margin-bottom: 1em">
 
-<summary
-    align="center"
-    style="font-weight: bold; font-size: 1.25rem">
-    Design
+<summary align="center">
+    <h3>Design</h3>
 </summary>
 
 <div
@@ -139,10 +134,8 @@
 
 <details open>
 
-<summary
-    align="center"
-    style="font-weight: bold; font-size: 1.25rem">
-    Statistics
+<summary align="center">
+    <h3>Statistics</h3>
 </summary>
 
 <div
