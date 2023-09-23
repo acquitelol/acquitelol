@@ -1,6 +1,6 @@
 <h1
     align="center">
-    <code>Haii ~!</code> I'm Rosie 💖
+    <code>Haii ~! I'm Rosie 💖</code>
 </h1>
 
 <h3
@@ -11,10 +11,10 @@
     
 ```ts
 import { getInformation } from '@meow';
-import type { Cute } from '@cute'
+import type { Cute } from '@cute';
 
 const Rosie = getInformation<Cute>('Rosie');
-Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data))
+Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
 /**
  * role: 'Programmer with a silly mindset :3'
  * age: 15
