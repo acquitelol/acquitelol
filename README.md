@@ -26,38 +26,6 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data))
 
 #
 
-<h3
-    align="center"
-    style="font-weight: bold">
-    Projects
-</h3>
-
-<details open>
-
-<summary align="center">
-    <h5>You may know me from some of my projects shown below!</h5>
-</summary>
-
-<div align="center">
-
-| Project | Description | View More |
-| ------- | ----------- | --------- |
-| **Azalea** | The cutest **SparxMaths** bookwork-bypass extension for Chromium | [![view]](https://github.com/acquitelol/azalea) |
-| **Rosiecord** | Wrapper for **Enmity** with more modifications, like icons and fonts | [![view]](https://github.com/acquitelol/rosiecord) |
-| **Dislate** | Advanced translation plugin for **Enmity** with custom translation library | [![view]](https://github.com/acquitelol/dislate) |
-| **EnmityYou** | Allows you to use **Enmity** using Discord's new You Tab settings | [![view]](https://github.com/acquitelol/enmity-you) |
-| **PEBoundary** | Plugin for **Enmity** which makes Discord's ErrorBoundary a lot prettier | [![view]](https://github.com/acquitelol/pretty-error-boundary) |
-| **BCGestures** | Plugin for **Vendetta** which adds extra gestures to messages in chat | [![view]](https://github.com/acquitelol/better-chat-gestures) |
-| **ReviewDB** | Plugin for **Enmity** to leave reviews on other users' Discord profiles  | [![view]](https://github.com/StupidityDB/EnmityPlugin) |
-| **Esp32-SR** | Project to record various metrics such as Temperature with the **ESP32** | [![view]](https://github.com/acquitelol/esp32-sensor-records) |
-| **To-do** | Extremely simple console-based TO-DO list application built in **Rust** | [![view]](https://github.com/acquitelol/todo) |
-
-</div>
-
-</details>
-
-#
-
 <details open>
 
 <summary align="center">
@@ -126,6 +94,38 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data))
         <img
             src="https://skillicons.dev/icons?i=ae,figma,blender,bootstrap,tailwind&theme=dark" />
     </div>
+</div>
+
+</details>
+
+#
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Projects
+</h3>
+
+<details open>
+
+<summary align="center">
+    <h5>You may know me from some of my projects shown below!</h5>
+</summary>
+
+<div align="center">
+
+| Project | Description | View More |
+| ------- | ----------- | --------- |
+| **Azalea** | The cutest **SparxMaths** bookwork-bypass extension for Chromium | [![view]](https://github.com/acquitelol/azalea) |
+| **Rosiecord** | Wrapper for **Enmity** with more modifications, like icons and fonts | [![view]](https://github.com/acquitelol/rosiecord) |
+| **Dislate** | Advanced translation plugin for **Enmity** with custom translation library | [![view]](https://github.com/acquitelol/dislate) |
+| **EnmityYou** | Allows you to use **Enmity** using Discord's new You Tab settings | [![view]](https://github.com/acquitelol/enmity-you) |
+| **PEBoundary** | Plugin for **Enmity** which makes Discord's ErrorBoundary a lot prettier | [![view]](https://github.com/acquitelol/pretty-error-boundary) |
+| **BCGestures** | Plugin for **Vendetta** which adds extra gestures to messages in chat | [![view]](https://github.com/acquitelol/better-chat-gestures) |
+| **ReviewDB** | Plugin for **Enmity** to leave reviews on other users' Discord profiles  | [![view]](https://github.com/StupidityDB/EnmityPlugin) |
+| **Esp32-SR** | Project to record various metrics such as Temperature with the **ESP32** | [![view]](https://github.com/acquitelol/esp32-sensor-records) |
+| **To-do** | Extremely simple console-based TO-DO list application built in **Rust** | [![view]](https://github.com/acquitelol/todo) |
+
 </div>
 
 </details>
