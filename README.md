@@ -124,7 +124,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data))
 | **BCGestures** | Plugin for **Vendetta** which adds extra gestures to messages in chat | [![view]](https://github.com/acquitelol/better-chat-gestures) |
 | **ReviewDB** | Plugin for **Enmity** to leave reviews on other users' Discord profiles  | [![view]](https://github.com/StupidityDB/EnmityPlugin) |
 | **Esp32-SR** | Project to record various metrics such as Temperature with the **ESP32** | [![view]](https://github.com/acquitelol/esp32-sensor-records) |
-| **To-do** | Extremely simple console-based TO-DO list application built in **Rust** | [![view]](https://github.com/acquitelol/todo) |
+| **To-Do** | Extremely simple console-based TO-DO list application built in **Rust** | [![view]](https://github.com/acquitelol/todo) |
 
 </div>
 
