@@ -15,6 +15,7 @@ import type { Cute } from '@cute';
 
 const Rosie = getData<Cute>(Users.Rosie);
 Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
+
 /**
  * role: 'Programmer with a silly mindset :3'
  * age: 15
