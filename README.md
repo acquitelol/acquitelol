@@ -19,9 +19,9 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
 /**
  * role: 'Programmer with a silly mindset :3'
  * age: 15
- * studying: ['Programming', 'Engineering']
- * interests: ['Astrophysics', 'Design']
- * loves: ['Cats', 'Bunnies', 'Puppies']
+ * studying: ['Programming', 'Engineering', 'Calculus']
+ * interests: ['Astrophysics', 'Design', 'Genshin Impact']
+ * loves: ['Cats', 'Bunnies', 'Puppies', 'Furina']
  */
 ```
 
