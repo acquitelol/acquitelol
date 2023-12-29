@@ -150,7 +150,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
         <br>
         <img
             style="margin-top: 1em"
-            src="https://komarev.com/ghpvc/?username=acquitelol&style=plastic&color=ffb3e5&label=Profile Views+:3" alt="Profile Views" />
+            src="https://komarev.com/ghpvc/?username=acquitelol&style=plastic&color=b3d5ff&label=Profile Views+:3" alt="Profile Views" />
 </div>
 
 #
@@ -163,17 +163,17 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
             align="center"
             style="width: 50%;">
             <img
-                src="https://github-readme-stats.vercel.app/api/?username=acquitelol&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=20" />
+                src="https://github-readme-stats.vercel.app/api/?username=acquitelol&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=b3d5ff&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=20" />
         </td>
         <td
             align="center"
             style="width: 50%;">
             <img
-                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=acquitelol&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=25" />
+                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=acquitelol&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=b3d5ff&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=25" />
         </td>
     </tr>
 </table>
 
 </details>
 
-[view]: https://img.shields.io/badge/view-ffb3e5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAAsTAAALEwEAmpwYAAADyUlEQVR4nO2cTYiVVRjHfzednBxHCrHoUxTd6SgiYrlsodIXEQjS2lwYogtJpI2LxMGvXDXoJjIUDUskopqmdBzToChb6Cgx6iKX6TQZqOM8ceBAl2HGmXfmfDzve58f/Df3Dvc+//+d+97znvOcA4ZhGIZhGIZhGIZhGMZ4mAm8DuwDOoEbwC1AgAHgT6AL2A+8BjwWIdbp/rU/BL4Hbvr3Fl/LdeBbYK//u9YyfbQrgSPAv96QjFP9wEFgboAa5gGHgL8L1nAH+BR4EcUsAX4oaExG0D2gA3h2AjU85z+sewHq+A5oQxFNQDswGMCc1Ml9tdcVqONt4HbgGu4DO4GpZOYp4MfA5mSYPgGaH1KDe+5w5Bp6gNlkYg5wNbJB8ToDPDFCDe6x7kQ1XAFeSB3ykwlDFq9fgceHhXwxcQ1XUv5nNyW4XMhDvsLNXucy1dCd6prdnsmgeB3yylnDB7FDXuR/iaXBdR9YHDPoEONkqYjc3W4UVigwJ8r0UoygjygwJsrkxu/BJ4iKzl00gv4BZoQM+g0FpkSpXgkZ9D4FhkSp9oQMulOBIVGqr0MGfU2BIVGqvpBBF51AbyTdDhm03Q0yatAum2CEnlCXCumvkEH3KTAkSvVHyKB/UWBIlOqnkEF/ocCQKNWJkEG/r8CQKNW2kEGvUmBIlOrlkEHPAh4oMCXKNDjKovGkOKvAmCiTWwgJzmYFxkSZ3o0RtGu3GlJgTpTIXUqfIRJdCgyKErku1Gi8qsCgKNGamEHXgMsKTEpmuY6lR4jMBgVGJbPWkwDXDnVJgVnJpF7fFpeEtxQYlkxy20WSUcvY6CgZ5dqHk9MWaAuDlER3gYVkYqeCACSRdpCRaQ3yw9g7xvaOJCyv+CXkLrAMJWxVEIhE0hYU4UYhpxSEIoH1lfemitkV62jq8wseKlnsW1ml5Brw20hU82bJ562HgLWUhO0KApMJytVeKg4oCE0K6iNKiJuv/UxBeDJOnQSmUFKa/ZKPKNc3/i631ExXvj/RbXtuoSK0Kp1W7Qm9q0oDLcr2wpwu2xlKRZgGfK4g5C8jHZaliqnAxxlDPppyzU/D0O9ghpA7UrQJaKMG7E4YcrvGmbiUvBN515drrd2U26QWVvkDBmPMwrkTGo06FvljNUOF7I7kXFr/Bsb/PA38HCDk34Dn617XGOXG5vgkQj5WpVvq2NSA9woew+km7Hc1+shioqz2W4DHCrk/dU9cFVkwxomNvwPzcxdZFZqAjcB5v/jrznm+4B97NHdxhmEYhmEYhmEYhmEYNBj/AcBVJqVGsTFDAAAAAElFTkSuQmCC
+[view]: https://img.shields.io/badge/view-b3d5ff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAAsTAAALEwEAmpwYAAADyUlEQVR4nO2cTYiVVRjHfzednBxHCrHoUxTd6SgiYrlsodIXEQjS2lwYogtJpI2LxMGvXDXoJjIUDUskopqmdBzToChb6Cgx6iKX6TQZqOM8ceBAl2HGmXfmfDzve58f/Df3Dvc+//+d+97znvOcA4ZhGIZhGIZhGIZhGMZ4mAm8DuwDOoEbwC1AgAHgT6AL2A+8BjwWIdbp/rU/BL4Hbvr3Fl/LdeBbYK//u9YyfbQrgSPAv96QjFP9wEFgboAa5gGHgL8L1nAH+BR4EcUsAX4oaExG0D2gA3h2AjU85z+sewHq+A5oQxFNQDswGMCc1Ml9tdcVqONt4HbgGu4DO4GpZOYp4MfA5mSYPgGaH1KDe+5w5Bp6gNlkYg5wNbJB8ToDPDFCDe6x7kQ1XAFeSB3ykwlDFq9fgceHhXwxcQ1XUv5nNyW4XMhDvsLNXucy1dCd6prdnsmgeB3yylnDB7FDXuR/iaXBdR9YHDPoEONkqYjc3W4UVigwJ8r0UoygjygwJsrkxu/BJ4iKzl00gv4BZoQM+g0FpkSpXgkZ9D4FhkSp9oQMulOBIVGqr0MGfU2BIVGqvpBBF51AbyTdDhm03Q0yatAum2CEnlCXCumvkEH3KTAkSvVHyKB/UWBIlOqnkEF/ocCQKNWJkEG/r8CQKNW2kEGvUmBIlOrlkEHPAh4oMCXKNDjKovGkOKvAmCiTWwgJzmYFxkSZ3o0RtGu3GlJgTpTIXUqfIRJdCgyKErku1Gi8qsCgKNGamEHXgMsKTEpmuY6lR4jMBgVGJbPWkwDXDnVJgVnJpF7fFpeEtxQYlkxy20WSUcvY6CgZ5dqHk9MWaAuDlER3gYVkYqeCACSRdpCRaQ3yw9g7xvaOJCyv+CXkLrAMJWxVEIhE0hYU4UYhpxSEIoH1lfemitkV62jq8wseKlnsW1ml5Brw20hU82bJ562HgLWUhO0KApMJytVeKg4oCE0K6iNKiJuv/UxBeDJOnQSmUFKa/ZKPKNc3/i631ExXvj/RbXtuoSK0Kp1W7Qm9q0oDLcr2wpwu2xlKRZgGfK4g5C8jHZaliqnAxxlDPppyzU/D0O9ghpA7UrQJaKMG7E4YcrvGmbiUvBN515drrd2U26QWVvkDBmPMwrkTGo06FvljNUOF7I7kXFr/Bsb/PA38HCDk34Dn617XGOXG5vgkQj5WpVvq2NSA9woew+km7Hc1+shioqz2W4DHCrk/dU9cFVkwxomNvwPzcxdZFZqAjcB5v/jrznm+4B97NHdxhmEYhmEYhmEYhmEYNBj/AcBVJqVGsTFDAAAAAElFTkSuQmCC
