@@ -163,7 +163,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
             align="center"
             style="width: 50%;">
             <img
-                src="https://github-readme-stats.vercel.app/api/?username=acquitelol&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=b3d5ff&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=20" />
+                src="https://github-readme-stats.vercel.app/api/?username=acquitelol&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=b3d5ff&text_color=fff0f9&icon_color=b3d5ff&bg_color=282A3682&border_radius=20" />
         </td>
         <td
             align="center"
