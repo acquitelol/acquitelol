@@ -39,7 +39,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
     <div
         style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
         <img
-            src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,rust,py,html,css&theme=dark" />
+            src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,rust,py,html,css,latex&theme=dark" />
     </div>
 </div>
 
@@ -57,7 +57,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
     <div
         style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
         <img
-            src="https://skillicons.dev/icons?i=electron,react,tauri,astro&theme=dark" />
+            src="https://skillicons.dev/icons?i=electron,react,tauri,astro,solidjs&theme=dark" />
     </div>
 </div>
 
