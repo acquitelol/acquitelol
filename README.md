@@ -75,7 +75,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
     <div
         style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; flex-direction: column; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
         <img
-            src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow,netlify,regex,selenium,dotnet,discord,latex&theme=dark&perline=6" />
+            src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow,netlify,regex,selenium,dotnet,latex&theme=dark&perline=6" />
     </div>
 </div>
 
