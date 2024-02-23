@@ -1,6 +1,6 @@
 <h1
     align="center">
-    <code>Haii ~! I'm Rosie 💖</code>
+    <code>Hiii ~! I'm Rosie 💖</code>
 </h1>
 
 <h3
@@ -10,7 +10,7 @@
 </h3>
     
 ```ts
-import Users, { getData } from '@meow';
+import Users, { getData } from '@personality';
 import type { Cute } from '@cute';
 
 const Rosie = getData<Cute>(Users.Rosie);
@@ -42,6 +42,8 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
             src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,rust,py,html,css&theme=dark" />
     </div>
 </div>
+
+<h5 align="center">(I also know Objective-C but there's no icon for it :c)</h5>
 
 </details>
 
@@ -118,6 +120,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
 | Project | Description | View More |
 | ------- | ----------- | --------- |
 | **Azalea** | The cutest **SparxMaths** bookwork-bypass extension for Chromium | [![view]](https://github.com/acquitelol/azalea) |
+| **Flora** | Advanced tweak to customize all of your colors on Jailbroken iOS | [![view]](https://github.com/acquitelol/flora) |
 | **Rosiecord** | Wrapper for **Enmity** with more modifications, like icons and fonts | [![view]](https://github.com/acquitelol/rosiecord) |
 | **Dislate** | Advanced translation plugin for **Enmity** with custom translation library | [![view]](https://github.com/acquitelol/dislate) |
 | **EnmityYou** | Allows you to use **Enmity** using Discord's new You Tab settings | [![view]](https://github.com/acquitelol/enmity-you) |
