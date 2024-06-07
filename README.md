@@ -8,7 +8,7 @@
     style="font-weight: bold">
     About Me
 </h3>
-    
+
 ```ts
 import Users, { getData } from '@personality';
 import type { Cute } from '@cute';
