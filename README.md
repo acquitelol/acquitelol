@@ -31,6 +31,12 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
 
 #
 
+<details>
+
+<summary align="center" style="margin-horizontal: 0.2em; pointer-events: none; user-select: none;">
+    <h2> ₊˚ Find out more ♡︎</h2>
+</summary>
+
 <details open>
 
 <summary align="center">
@@ -181,6 +187,8 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
         </td>
     </tr>
 </table>
+
+</details>
 
 </details>
 
