@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; pointer-events: none; opacity: 0.2; background-size: cover; background-image: url('https://github.com/acquitelol/acquitelol/blob/main/images/furina.png?raw=true');]{x0000}$}
-```
-
 <h1
     align="center">
     <code>Hiii ~! I'm Rosie 💖</code>
