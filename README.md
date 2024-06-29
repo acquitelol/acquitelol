@@ -18,7 +18,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
 
 /**
  * role: 'Programmer with a silly mindset :3'
- * age: 15
+ * age: 16
  * studying: ['Programming', 'Engineering', 'Calculus']
  * interests: ['Astrophysics', 'Design', 'Genshin Impact']
  * loves: ['Cats', 'Bunnies', 'Puppies', 'Furina']
@@ -152,12 +152,6 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
 <div
     align="center"
     style="margin-block: 1em">
-        <a
-            href="https://discord.com/users/581573474296791211">
-            <img
-                src="https://lanyard.cnrad.dev/api/581573474296791211?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=rosie+is+not+doing+anything+right+now+:c" />
-        </a>
-        <br>
         <img
             style="margin-top: 1em"
             src="https://komarev.com/ghpvc/?username=acquitelol&style=plastic&color=b3d5ff&label=Profile Views+:3" alt="Profile Views" />
