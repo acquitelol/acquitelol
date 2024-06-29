@@ -149,14 +149,6 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
     <h3>Statistics</h3>
 </summary>
 
-<div
-    align="center"
-    style="margin-block: 1em">
-        <img
-            style="margin-top: 1em"
-            src="https://komarev.com/ghpvc/?username=acquitelol&style=plastic&color=b3d5ff&label=Profile Views+:3" alt="Profile Views" />
-</div>
-
 #
 
 <table
