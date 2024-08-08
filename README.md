@@ -17,9 +17,9 @@ fn main() {
         name = "Rosie",
         age = 16,
         role = "Programmer with a silly mindset :3",
-        studying = ["Programming", "Engineering", "Calculus"],
-        interests = ["Astrophysics", "Design", "Genshin Impact"],
-        loves = ["Cats", "Bunnies", "Puppies", "Furina"]
+        studying = ["Programming", "Calculus", "Compilers"],
+        interests = ["Astrophysics", "Plushies", "Reading"],
+        loves = ["Cats", "Furina", "Clothes", "Sleeping"]
     };
 
     say_hello(&rosie); // Hello, Rosie!
