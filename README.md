@@ -6,23 +6,24 @@
 <h3
     align="center"
     style="font-weight: bold">
-    About Me
+    About Me (now written in Elle!)
 </h3>
 
-```ts
-import Users, { getData } from '@personality';
-import type { Cute } from '@cute';
+```rs
+use cute@{ User, say_hello };
 
-const Rosie = getData<Cute>(Users.Rosie);
-Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
+fn main() {
+    User rosie = User {
+        name = "Rosie",
+        age = 16,
+        role = "Programmer with a silly mindset :3",
+        studying = ["Programming", "Engineering", "Calculus"],
+        interests = ["Astrophysics", "Design", "Genshin Impact"],
+        loves = ["Cats", "Bunnies", "Puppies", "Furina"]
+    };
 
-/**
- * role: 'Programmer with a silly mindset :3'
- * age: 16
- * studying: ['Programming', 'Engineering', 'Calculus']
- * interests: ['Astrophysics', 'Design', 'Genshin Impact']
- * loves: ['Cats', 'Bunnies', 'Puppies', 'Furina']
- */
+    say_hello(&rosie); // Hello, Rosie!
+}
 ```
 
 #
@@ -45,7 +46,7 @@ Object.entries(Rosie).map(([key, data]) => console.log(`${key}:`, data));
     <div
         style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
         <img
-            src="https://skillicons.dev/icons?i=ts,js,nodejs,cs,rust,py,html,css&theme=dark" />
+            src="https://skillicons.dev/icons?i=ts,js,nodejs,rust,py&theme=dark" />
     </div>
 </div>
 
