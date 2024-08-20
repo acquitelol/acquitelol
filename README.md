@@ -10,7 +10,7 @@
 </h3>
 
 ```rs
-use cute@{ User, say_hello };
+use cute;
 
 fn main() {
     User rosie = User {
@@ -22,7 +22,7 @@ fn main() {
         loves = ["Cats", "Furina", "Clothes", "Sleeping"]
     };
 
-    say_hello(&rosie); // Hello, Rosie!
+    rosie.say_hello(); // Hello, Rosie!
 }
 ```
 
