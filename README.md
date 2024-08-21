@@ -22,7 +22,7 @@ fn main() {
         loves = ["Cats", "Furina", "Clothes", "Sleeping"]
     };
 
-    rosie.say_hello(); // Hello, Rosie!
+    rosie.say_hello(); // Hi, I'm Rosie!
 }
 ```
 
