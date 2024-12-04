@@ -1,6 +1,6 @@
 <h1
     align="center">
-    <code>°❀⋆. Hiii ⭑.ᐟ I'm Rosie ೃ࿔</code>
+    <code>𐙚⋆°. Hello ⭑.ᐟ I'm Rosie ೃ࿔</code>
 </h1>
 
 <h2
@@ -12,7 +12,7 @@
 <h1
     align="center"
     style="font-weight: bold">
-    ⟡˙⋆──────────୨ৎ──────────⋆˙⟡
+    ⟡˙⋆───────────୨ৎ───────────⋆˙⟡
 </h1>
 
 ```rs
