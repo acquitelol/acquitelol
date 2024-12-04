@@ -1,13 +1,19 @@
 <h1
     align="center">
-    <code>Hiii ~! I'm Rosie 💖</code>
+    <code>°❀⋆. Hiii ⭑.ᐟ I'm Rosie ೃ࿔</code>
 </h1>
 
-<h3
+<h2
     align="center"
     style="font-weight: bold">
-    About Me (now written in Elle!)
-</h3>
+    About Me ᯓ★
+</h2>
+
+<h1
+    align="center"
+    style="font-weight: bold">
+    ⟡˙⋆──────────୨ৎ──────────⋆˙⟡
+</h1>
 
 ```rs
 use cute;
@@ -17,14 +23,20 @@ fn main() {
         name = "Rosie",
         age = 16,
         role = "Programmer with a silly mindset :3",
-        studying = ["Programming", "Calculus", "Compilers"],
-        interests = ["Astrophysics", "Plushies", "Reading"],
-        loves = ["Cats", "Furina", "Clothes", "Sleeping"]
+        studying = ["Programming", "Calculus", "Compilers", "Japanese"],
+        interests = ["Textiles", "Plushies", "Project Sekai", "Fashion"],
+        loves = ["Cats", "Mizuki", "Clothes", "Sleeping", "Music"]
     };
 
     rosie.say_hello(); // Hi, I'm Rosie!
 }
 ```
+
+<h4
+    align="center"
+>
+    I'm planning to go to to Japan in a few years! ⋆˚𝜗𝜚˚⋆
+</h4>
 
 #
 
