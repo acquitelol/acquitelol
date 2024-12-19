@@ -96,7 +96,7 @@ fn main() {
     <div
         style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; flex-direction: column; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
         <img
-            src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow,netlify,regex,selenium,dotnet,latex&theme=dark&perline=6" />
+            src="https://skillicons.dev/icons?i=vscode,bash,git,github,githubactions,rollupjs,stackoverflow,netlify,regex,selenium,latex&theme=dark&perline=6" />
     </div>
 </div>
 
@@ -114,7 +114,7 @@ fn main() {
     <div
         style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; flex-direction: column; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
         <img
-            src="https://skillicons.dev/icons?i=ae,figma,blender,bootstrap,tailwind&theme=dark" />
+            src="https://skillicons.dev/icons?i=ae,figma,blender,tailwind&theme=dark" />
     </div>
 </div>
 
