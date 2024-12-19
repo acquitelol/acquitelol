@@ -58,7 +58,7 @@ fn main() {
     <div
         style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
         <img
-            src="https://skillicons.dev/icons?i=ts,js,nodejs,rust,py&theme=dark" />
+            src="https://skillicons.dev/icons?i=ts,js,rust,py,c,cs&theme=dark" />
     </div>
 </div>
 
