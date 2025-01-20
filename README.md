@@ -19,7 +19,7 @@
 use cute;
 
 fn main() {
-    User rosie = User {
+    rosie := User {
         name = "Rosie",
         age = 16,
         role = "Programmer with a silly mindset :3",
@@ -39,6 +39,56 @@ fn main() {
 </h4>
 
 #
+
+<details>
+
+<summary align="center" style="margin-horizontal: 0.2em; pointer-events: none; user-select: none;">
+    <h2> ₊˚ 日本語で ♡︎</h2>
+</summary>
+
+<details open>
+
+<h1
+    align="center"
+>
+    <code>𐙚⋆°. こんにちは ⭑.ᐟ 絵希です ೃ࿔</code>
+</h1>
+
+<h2
+    align="center"
+    style="font-weight: bold"
+>
+    私について ᯓ★
+</h2>
+
+<h1 align="center" style="font-weight: bold">
+    ⟡˙⋆───────────୨ৎ───────────⋆˙⟡
+</h1>
+
+```rs
+use kawaii;
+
+fn main() {
+    eki := User {
+        namae = "絵希",
+        nenrei = 16,
+        yakuwari = "ちょっとお茶目なプログラマー :3",
+        benkyou = ["プログラミング", "微積分", "コンパイラ", "日本語"],
+        shumi = ["テキスタイル", "ぬいぐるみ", "プロセカ", "ファッション"],
+        daisuki = ["猫", "暁山瑞希", "服", "寝ること", "音楽"]
+    };
+
+    rosie.aisatsu(); // こんにちは、絵希です！
+}
+```
+
+<h4
+    align="center"
+>
+    数年後、日本に行くよ！⋆˚𝜗𝜚˚⋆
+</h4>
+
+</details>
 
 <details>
 
@@ -138,7 +188,9 @@ fn main() {
 
 | Project | Description | View More |
 | ------- | ----------- | --------- |
+| **いちご** | ElleとQBEを用いておもちゃのコンパイル型プログラミング言語 | [![view]](https://github.com/acquitelol/ichigo) |
 | **Azalea** | The cutest **SparxMaths** bookwork-bypass extension for Chromium | [![view]](https://github.com/acquitelol/azalea) |
+| **Unbound** | The fanciest upcoming Discord Client Modification for mobile | [![view]](https://github.com/unbound-mod) |
 | **Elle** | A procedural programming language built in Rust and QBE | [![view]](https://github.com/acquitelol/elle) |
 | **Flora** | Advanced tweak to customize all of your colors on Jailbroken iOS | [![view]](https://github.com/acquitelol/flora) |
 | **Rosiecord** | Wrapper for **Enmity** with more modifications, like icons and fonts | [![view]](https://github.com/acquitelol/rosiecord) |
