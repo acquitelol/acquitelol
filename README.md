@@ -184,21 +184,22 @@ fn main() {
 
 <div align="center">
 
-| Project | Description | View More |
-| ------- | ----------- | --------- |
-| **いちご** | ElleとQBEを用いておもちゃのコンパイル型プログラミング言語 | [![view]](https://github.com/acquitelol/ichigo) |
-| **Azalea** | The cutest **SparxMaths** bookwork-bypass extension for Chromium | [![view]](https://github.com/acquitelol/azalea) |
-| **Unbound** | The fanciest upcoming Discord Client Modification for mobile | [![view]](https://github.com/unbound-mod) |
-| **Elle** | A procedural programming language built in Rust and QBE | [![view]](https://github.com/acquitelol/elle) |
-| **Flora** | Advanced tweak to customize all of your colors on Jailbroken iOS | [![view]](https://github.com/acquitelol/flora) |
-| **Rosiecord** | Wrapper for **Enmity** with more modifications, like icons and fonts | [![view]](https://github.com/acquitelol/rosiecord) |
-| **Dislate** | Advanced translation plugin for **Enmity** with custom translation library | [![view]](https://github.com/acquitelol/dislate) |
-| **EnmityYou** | Allows you to use **Enmity** using Discord's new You Tab settings | [![view]](https://github.com/acquitelol/enmity-you) |
-| **PEBoundary** | Plugin for **Enmity** which makes Discord's ErrorBoundary a lot prettier | [![view]](https://github.com/acquitelol/pretty-error-boundary) |
-| **BCGestures** | Plugin for **Vendetta** which adds extra gestures to messages in chat | [![view]](https://github.com/acquitelol/better-chat-gestures) |
-| **ReviewDB** | Plugin for **Enmity** to leave reviews on other users' Discord profiles  | [![view]](https://github.com/StupidityDB/EnmityPlugin) |
-| **Esp32-SR** | Project to record various metrics such as Temperature with the **ESP32** | [![view]](https://github.com/acquitelol/esp32-sensor-records) |
-| **To-Do** | Extremely simple console-based TO-DO list application built in **Rust** | [![view]](https://github.com/acquitelol/todo) |
+| Project        | Description                                                                | View More                                                      |
+| -------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **いちご**     | ElleとQBEを用いておもちゃのコンパイル型プログラミング言語                  | [![view]](https://github.com/acquitelol/ichigo)                |
+| **Azalea**     | The cutest **SparxMaths** bookwork-bypass extension for Chromium           | [![view]](https://github.com/acquitelol/azalea)                |
+| **Unbound**    | The fanciest upcoming Discord Client Modification for mobile               | [![view]](https://github.com/unbound-mod)                      |
+| **Elle**       | A procedural programming language built in Rust and QBE                    | [![view]](https://github.com/acquitelol/elle)                  |
+| **Flora**      | Advanced tweak to customize all of your colors on Jailbroken iOS           | [![view]](https://github.com/acquitelol/flora)                 |
+| **Simplex**    | A simple implementation of a "Simplex Tableau" solver                      | [![view]](https://github.com/acquitelol/simplex)               |
+| **Rosiecord**  | Wrapper for **Enmity** with more modifications, like icons and fonts       | [![view]](https://github.com/acquitelol/rosiecord)             |
+| **Dislate**    | Advanced translation plugin for **Enmity** with custom translation library | [![view]](https://github.com/acquitelol/dislate)               |
+| **EnmityYou**  | Allows you to use **Enmity** using Discord's new You Tab settings          | [![view]](https://github.com/acquitelol/enmity-you)            |
+| **PEBoundary** | Plugin for **Enmity** which makes Discord's ErrorBoundary a lot prettier   | [![view]](https://github.com/acquitelol/pretty-error-boundary) |
+| **BCGestures** | Plugin for **Vendetta** which adds extra gestures to messages in chat      | [![view]](https://github.com/acquitelol/better-chat-gestures)  |
+| **ReviewDB**   | Plugin for **Enmity** to leave reviews on other users' Discord profiles    | [![view]](https://github.com/StupidityDB/EnmityPlugin)         |
+| **Esp32-SR**   | Project to record various metrics such as Temperature with the **ESP32**   | [![view]](https://github.com/acquitelol/esp32-sensor-records)  |
+| **To-Do**      | Extremely simple console-based TO-DO list application built in **Rust**    | [![view]](https://github.com/acquitelol/todo)                  |
 
 </div>
 
