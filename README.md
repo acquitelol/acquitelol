@@ -21,7 +21,7 @@ use cute;
 fn main() {
     rosie := User {
         name = "Rosie",
-        age = 16,
+        age = 17,
         role = "Programmer with a silly mindset :3",
         studying = ["Programming", "Calculus", "Compilers", "Japanese"],
         interests = ["Textiles", "Plushies", "Project Sekai", "Fashion"],
@@ -69,7 +69,7 @@ use kawaii;
 fn main() {
     eki := User {
         namae = "絵希",
-        nenrei = 16,
+        nenrei = 17,
         yakuwari = "ちょっとお茶目なプログラマー :3",
         benkyou = ["プログラミング", "微積分", "コンパイラ", "日本語"],
         shumi = ["テキスタイル", "ぬいぐるみ", "プロセカ", "ファッション"],
