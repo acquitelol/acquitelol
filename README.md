@@ -186,7 +186,8 @@ fn main() {
 
 | Project        | Description                                                                | View More                                                      |
 | -------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **いちご**     | ElleとQBEを用いておもちゃのコンパイル型プログラミング言語                  | [![view]](https://github.com/acquitelol/ichigo)                |
+| **いちご**      | ElleとQBEを用いておもちゃのコンパイル型プログラミング言語                           | [![view]](https://github.com/acquitelol/ichigo)                |
+| **Raytracer**  | A raytracer experiment using Elle, Raylib, and OpenGL.                     | [![view]](https://github.com/acquitelol/raytracer)             |
 | **Azalea**     | The cutest **SparxMaths** bookwork-bypass extension for Chromium           | [![view]](https://github.com/acquitelol/azalea)                |
 | **Unbound**    | The fanciest upcoming Discord Client Modification for mobile               | [![view]](https://github.com/unbound-mod)                      |
 | **Elle**       | A procedural programming language built in Rust and QBE                    | [![view]](https://github.com/acquitelol/elle)                  |
