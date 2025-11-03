@@ -188,7 +188,7 @@ fn main() {
 | -------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **Elle**       | A procedural programming language built in Rust and QBE                    | [![view]](https://github.com/acquitelol/elle)                  |
 | **いちご**      | ElleとQBEを用いておもちゃのコンパイル型プログラミング言語                           | [![view]](https://github.com/acquitelol/ichigo)                |
-| **Pomee**      | A rhythm game with original music using Elle and Raylib                    | [![view]](https://github.com/acquitelol/ichigo)                |
+| **Pomee**      | A rhythm game with original music using Elle and Raylib                    | [![view]](https://github.com/acquitelol/pomee)                 |
 | **Raytracer**  | A raytracer experiment using Elle, Raylib, and OpenGL.                     | [![view]](https://github.com/acquitelol/raytracer)             |
 | **Azalea**     | The cutest **SparxMaths** bookwork-bypass extension for Chromium           | [![view]](https://github.com/acquitelol/azalea)                |
 | **Unbound**    | The fanciest upcoming Discord Client Modification for mobile               | [![view]](https://github.com/unbound-mod)                      |
