@@ -186,11 +186,12 @@ fn main() {
 
 | Project        | Description                                                                | View More                                                      |
 | -------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Elle**       | A procedural programming language built in Rust and QBE                    | [![view]](https://github.com/acquitelol/elle)                  |
 | **いちご**      | ElleとQBEを用いておもちゃのコンパイル型プログラミング言語                           | [![view]](https://github.com/acquitelol/ichigo)                |
+| **Pomee**      | A rhythm game with original music using Elle and Raylib                    | [![view]](https://github.com/acquitelol/ichigo)                |
 | **Raytracer**  | A raytracer experiment using Elle, Raylib, and OpenGL.                     | [![view]](https://github.com/acquitelol/raytracer)             |
 | **Azalea**     | The cutest **SparxMaths** bookwork-bypass extension for Chromium           | [![view]](https://github.com/acquitelol/azalea)                |
 | **Unbound**    | The fanciest upcoming Discord Client Modification for mobile               | [![view]](https://github.com/unbound-mod)                      |
-| **Elle**       | A procedural programming language built in Rust and QBE                    | [![view]](https://github.com/acquitelol/elle)                  |
 | **Flora**      | Advanced tweak to customize all of your colors on Jailbroken iOS           | [![view]](https://github.com/acquitelol/flora)                 |
 | **Simplex**    | A simple implementation of a "Simplex Tableau" solver                      | [![view]](https://github.com/acquitelol/simplex)               |
 | **Rosiecord**  | Wrapper for **Enmity** with more modifications, like icons and fonts       | [![view]](https://github.com/acquitelol/rosiecord)             |
